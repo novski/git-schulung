@@ -1,1 +1,1 @@
-dies ist ein Text in einem File das mit git versioniert wird.
+dies ist ein Text in einem File das mit git versioniert wird. ivan
